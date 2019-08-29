@@ -9,12 +9,12 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="2.5in"
-   height="2.5in"
-   viewBox="0 0 63.500001 63.500002"
+   width="100.0mm"
+   height="100.0mm"
+   viewBox="0 0 100.0 100.0"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92.4 (f8dce91, 2019-08-02)"
+   inkscape:version="0.92.4 (unknown)"
    sodipodi:docname="star.svg">
   <defs
      id="defs2" />
@@ -26,30 +26,38 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.1"
-     inkscape:cx="181.81818"
+     inkscape:cx="70.909089"
      inkscape:cy="76.498316"
-     inkscape:document-units="in"
-     inkscape:current-layer="layer1"
+     inkscape:document-units="mm"
+     inkscape:current-layer="svg8"
      showgrid="false"
      inkscape:lockguides="false"
      units="in"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:window-width="1810"
-     inkscape:window-height="994"
-     inkscape:window-x="67"
+     inkscape:window-width="1803"
+     inkscape:window-height="937"
+     inkscape:window-x="70"
      inkscape:window-y="27"
-     inkscape:window-maximized="0">
+     inkscape:window-maximized="0"
+     borderlayer="true">
     <sodipodi:guide
-       position="31.75,20.445076"
-       orientation="1,0"
+       inkscape:locked="false"
        id="guide3723"
-       inkscape:locked="false" />
+       orientation="1,0"
+       position="50.270833,105.5928" />
     <sodipodi:guide
-       position="-69.513259,31.990531"
-       orientation="0,1"
+       inkscape:locked="false"
        id="guide3725"
-       inkscape:locked="false" />
+       orientation="0,1"
+       position="-94.768939,50.270833" />
+    <inkscape:grid
+       id="grid21"
+       units="mm"
+       type="xygrid"
+       empspacing="1"
+       spacingy="2.54"
+       spacingx="2.54" />
   </sodipodi:namedview>
   <metadata
      id="metadata5">
@@ -59,30 +67,138 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
-     inkscape:label="Layer 1"
+     id="g29"
+     sodipodi:insensitive="true"
      inkscape:groupmode="layer"
-     id="layer1"
-     transform="translate(0,-233.49999)">
-    <path
-       sodipodi:type="star"
-       id="path3729"
-       sodipodi:sides="5"
-       sodipodi:cx="31.750002"
-       sodipodi:cy="268.1845"
-       sodipodi:r1="28.623108"
-       sodipodi:r2="14.311553"
-       sodipodi:arg1="-1.5707963"
-       sodipodi:arg2="-0.9424778"
-       inkscape:flatsided="false"
-       inkscape:rounded="0"
-       inkscape:randomized="0"
-       d="m 31.750003,239.5614 8.412119,17.04482 18.810073,2.73326 -13.611097,13.26754 3.213144,18.73407 -16.82424,-8.84503 -16.824241,8.84503 3.213145,-18.73407 -13.6110972,-13.26754 18.8100732,-2.73326 z"
-       inkscape:transform-center-y="-2.7332635"
-       style="stroke-width:0.26458335" />
+     inkscape:label="[fixed] BG"
+     style="display:inline">
+    <rect
+       id="rect27"
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       height="100"
+       width="100"
+       y="0"
+       x="0" />
   </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Edge.Cuts">
+    <g
+       style="display:inline"
+       inkscape:label="circle"
+       inkscape:groupmode="layer"
+       id="g3807">
+      <ellipse
+         style="fill:none;stroke:#000000;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         ry="49.729168"
+         rx="50.270832"
+         cy="49.729168"
+         cx="50.270832"
+         id="ellipse3805" />
+    </g>
+  </g>
+  <g
+     id="g33"
+     inkscape:groupmode="layer"
+     inkscape:label="B.Cu-disabled"
+     style="display:inline" />
+  <g
+     id="g35"
+     inkscape:groupmode="layer"
+     inkscape:label="B.Mask-disabled"
+     style="display:inline" />
+  <g
+     id="g37"
+     inkscape:groupmode="layer"
+     inkscape:label="B.Silk"
+     style="display:inline">
+    <g
+       inkscape:groupmode="layer"
+       id="layer2"
+       inkscape:label="greymanhw">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="73.121216"
+         y="64.882576"
+         id="text4581"><tspan
+           sodipodi:role="line"
+           id="tspan4579"
+           x="73.121216"
+           y="74.246346"
+           style="stroke-width:0.26458332" /></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:4.23333311px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="-44.970409"
+         y="108.43152"
+         id="text4589"
+         transform="rotate(-70)"><tspan
+           sodipodi:role="line"
+           id="tspan4587"
+           x="-44.970409"
+           y="108.43152"
+           style="stroke-width:0.26458332">@greymanhw</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:4.23333311px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="50.386116"
+         y="15.420519"
+         id="text4607"
+         transform="rotate(70)"><tspan
+           sodipodi:role="line"
+           x="50.386116"
+           y="15.420519"
+           style="stroke-width:0.26458332"
+           id="tspan4609">star 1.0.0</tspan></text>
+    </g>
+  </g>
+  <g
+     id="g39"
+     inkscape:groupmode="layer"
+     inkscape:label="F.Cu-disabled"
+     style="display:inline" />
+  <g
+     id="g41"
+     inkscape:groupmode="layer"
+     inkscape:label="F.Mask-disabled" />
+  <g
+     id="g43"
+     inkscape:groupmode="layer"
+     inkscape:label="F.Silk"
+     style="display:inline">
+    <g
+       inkscape:label="star"
+       inkscape:groupmode="layer"
+       id="layer1"
+       transform="translate(0,-233.49999)">
+      <path
+         sodipodi:type="star"
+         id="path3729"
+         sodipodi:sides="5"
+         sodipodi:cx="49.741669"
+         sodipodi:cy="285.74323"
+         sodipodi:r1="28.623108"
+         sodipodi:r2="14.311553"
+         sodipodi:arg1="-1.5707963"
+         sodipodi:arg2="-0.9424778"
+         inkscape:flatsided="false"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         d="m 49.741669,257.12012 8.412119,17.04482 18.810074,2.73326 -13.611098,13.26754 3.213145,18.73407 -16.82424,-8.84503 -16.824242,8.84503 3.213146,-18.73407 -13.611097,-13.26754 18.810073,-2.73326 z"
+         inkscape:transform-center-y="-3.9965226"
+         style="stroke-width:0.26458335"
+         transform="matrix(1.4241192,0,0,1.4621849,-21.096396,-132.06619)" />
+    </g>
+  </g>
+  <g
+     id="g45"
+     inkscape:groupmode="layer"
+     inkscape:label="Drill" />
 </svg>
